@@ -26,5 +26,6 @@ public class Test {
       mobilyPage.tapMobil1();
       mobilyPage.tapContinue();
       mobilyPage.tapMobil2();
+      System.out.println("Test passed");
     }
 }
